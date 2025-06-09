@@ -1,44 +1,44 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Lehan (Emma) Dong",
+    "email": "lehandongwork@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://lehandong.github.io/lehandongwebsite/",
+    "summary": "Master's student at JHU, exploring cross-disciplinary opportunities.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Arlington",
       "countryCode": "US",
-      "region": ""
+      "region": "VA"
     },
     "profiles": [
-      {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
+      #{
+      #  "network": "Google Scholar",
+      #  "username": "",
+      #  "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+      #},
+      #{
+      # "network": "ORCID",
+      #  "username": "",
+      #  "url": "http://orcid.org/yourorcidurl"
+      #},
       {
         "network": "GitHub",
         "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": "https://github.com/LehanDong/lehanproject"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Johns Hopkins University",
+      "area": "MS. in Business Analytics and Risk Management",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
+      "startDate": "2024",
+      "endDate": "2025",
+      "gpa": "3.8",
       "courses": []
     },
     {
