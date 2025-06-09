@@ -9,7 +9,7 @@
 # Basic Site Settings
 title: "Lehan Dong"
 name: "Lehan Dong"
-description: "Master’s student at Johns Hopkins University, exploring interdisciplinary approaches to business, technology, and policy challenges."
+description: "Master's student at JHU, exploring cross-disciplinary opportunities."
 url: "https://lehandong.github.io"
 baseurl: "/lehandongwebsite"
 repository: "lehandong/lehandong.github.io"
@@ -22,7 +22,7 @@ author:
   avatar           : "profile.png"
   name             : "Lehan (Emma) Dong"
   pronouns         : # example: "she/her"  
-  bio              : "JHU master’s student with a background in economics and data analytics, open to diverse roles and projects."
+  bio              : "Master's student at JHU, exploring cross-disciplinary opportunities."
   location         : "US & China"
   employer         : "Johns Hopkins University"
   email            : "lehandongwork@gmail.com" 
@@ -71,44 +71,7 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false      #change to true to add link to talkmap on talks page
-comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-  disqus:
-    shortname            :
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
-  path                   : # blank (default) uses feed.xml
-
-
-# SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
-
+#talkmap_link             : false      #change to true to add link to talkmap on talks page
 
 # Social Sharing
 twitter:
@@ -204,9 +167,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+#  talks:
+#    output: true
+#    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -230,14 +193,14 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+ # - scope:
+ #     path: ""
+  #    type: teaching
+   # values:
+    #  layout: single
+     # author_profile: true
+      #share: true
+      #comments: true
   # _publications
   - scope:
       path: ""
@@ -257,13 +220,13 @@ defaults:
       share: true
       comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+#  - scope:
+#      path: ""
+#      type: talks
+#    values:
+#      layout: talk
+#      author_profile: true
+#      share: true
 
 
 # Sass/SCSS
