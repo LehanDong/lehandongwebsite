@@ -9,7 +9,7 @@
 # Basic Site Settings
 title: "Lehan Dong"
 name: "Lehan Dong"
-description: "Master’s student at Johns Hopkins University, focusing on strategy, innovation, and data analytics."
+description: "Master’s student at Johns Hopkins University, exploring interdisciplinary approaches to business, technology, and policy challenges."
 url: "https://lehandong.github.io"
 baseurl: "/lehandongwebsite"
 repository: "lehandong/lehandong.github.io"
@@ -22,13 +22,13 @@ author:
   avatar           : "profile.png"
   name             : "Lehan (Emma) Dong"
   pronouns         : # example: "she/her"  
-  bio              : "M.S. candidate at Johns Hopkins University. Interested in corporate strategy, economics, and data-driven research."
-  location         : "US & china"
+  bio              : "JHU master’s student with a background in economics and data analytics, open to diverse roles and projects."
+  location         : "US & China"
   employer         : "Johns Hopkins University"
   email            : "lehandongwork@gmail.com" 
 
   # Repositories and software development
-  github           : "academicpages"
+  github           : "https://github.com/LehanDong/lehanproject"
  
   # Social media
   bluesky          : # Replace this with you Bluesky username
@@ -40,7 +40,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/lehandong/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -57,13 +57,13 @@ author:
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+# publication_category:
+#  books:
+#    title: 'Books'
+#  manuscripts:
+#    title: 'Journal Articles'    
+#  conferences:
+#    title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
