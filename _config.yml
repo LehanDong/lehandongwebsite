@@ -11,7 +11,7 @@ title: "Lehan Dong"
 name: "Lehan Dong"
 description: "Master’s student at Johns Hopkins University, focusing on strategy, innovation, and data analytics."
 url: "https://lehandong.github.io"
-baseurl: "" 
+baseurl: "/lehandongwebsite"
 repository: "lehandong/lehandong.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
