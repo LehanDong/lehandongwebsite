@@ -19,9 +19,9 @@ repository: "lehandong/lehandong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Lehan (Emma) Dong"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Master's student at JHU, exploring cross-disciplinary opportunities."
   location         : "US & China"
   employer         : "Johns Hopkins University"
