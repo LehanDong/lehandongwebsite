@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+
 Hi! I'm Lehan Dong (董乐晗), a master’s student in Business Analytics and Risk Management at Johns Hopkins University.
 
 With a background in international economics and applied analytics, I’m broadly interested in the intersection of corporate strategy, economics, and data-informed policy. My recent work includes research and consulting projects on capital market reform, equity access in financial services, and data strategy in HR-tech.
