@@ -47,12 +47,17 @@ Research Assistant, Tsinghua University, Center for International Finance and Ec
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software & Technical Proficiency:
+  * Statistical Analysis & Programming: Python, R, Stata, SPSS
+  * Cloud Platforms: Amazon Web Services (AWS)
+  * General Programming: Ruby
+  * Data Visualization & BI: Tableau
+  * Databases: MySQL
+  * Spreadsheets & Data Management: Microsoft Excel (Advanced)
+* Languages
+  * Native: Chinese (Simplified & Traditional)
+  * Fluent: English
+  * Basic: Spanish
 
 Publications
 ======
