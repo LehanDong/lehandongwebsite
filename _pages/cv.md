@@ -19,26 +19,26 @@ Research Experience
 ======
 Research Assistant, Tsinghua University, Center for International Finance and Economics
 * Feb 2025 – Present: Seigniorage & AI Research Support
-  * Duties includes:
+  Duties includes:
       * Macroeconomic Data Structuring
       * Causal Inference & Machine Learning
       * Cross-Team Collaboration
-  * Supervisor: Dr. Chen Huang
+  Supervisor: Dr. Chen Huang
 
 * Jun 2024 – Present: Trade Policy
-  * Duties included: 
+  Duties included: 
       * Conducted Policy Impact Analysis
       * Synthesized Scholarly Insights by Reviewing Academic Papers
       * Led Academic Publishing Efforts
       * Supported Knowledge Dissemination by managing speaker logistics and agendas for conference
-  * Supervisor: Dr. Chen Huang & Yusu Yang
+  Supervisor: Dr. Chen Huang & Yusu Yang
 
 * Nov 2024 – April 2025: Capital Market Policy
-  * Duties included:
+  Duties included:
       * Comparative Policy Analysis
       * Visualization & Reporting
       * Drafted Strategic Recommendations to Government
-  * Supervisor: Dr. Qingtao Li & Dr. Chen Huang
+  Supervisor: Dr. Qingtao Li & Dr. Chen Huang
   
 Skills
 ======
