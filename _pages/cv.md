@@ -23,7 +23,7 @@ Research Assistant, Tsinghua University, Center for International Finance and Ec
       * Macroeconomic Data Structuring
       * Causal Inference & Machine Learning
       * Cross-Team Collaboration
-  * Supervisor: Dr.Chen Huang
+  * Supervisor: Dr. Chen Huang
 
 * Jun 2024 – Present: Trade Policy
   * Duties included: 
@@ -38,7 +38,7 @@ Research Assistant, Tsinghua University, Center for International Finance and Ec
       * Comparative Policy Analysis
       * Visualization & Reporting
       * Drafted Strategic Recommendations to Government
-  * Supervisor: Dr. Qingtao Li & Dr.Chen Huang
+  * Supervisor: Dr. Qingtao Li & Dr. Chen Huang
   
 Skills
 ======
