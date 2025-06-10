@@ -30,11 +30,11 @@ Research Assistant, Tsinghua University, Center for International Finance and Ec
 * Jun 2024 – Present:
   * Research Topic: Trade Policy
   * Supervisors: Dr. Chen Huang & Yusu Yang
-  *  Duties included: 
-    * Conducted Policy Impact Analysis
-    * Synthesized Scholarly Insights by Reviewing Academic Papers
-    * Led Academic Publishing Efforts
-    * Supported Knowledge Dissemination by managing speaker logistics and agendas for conference
+  * Duties included: 
+     * Conducted Policy Impact Analysis
+     * Synthesized Scholarly Insights by Reviewing Academic Papers
+     * Led Academic Publishing Efforts
+     * Supported Knowledge Dissemination by managing speaker logistics and agendas for conference
 
 
 * Nov 2024 – April 2025:
