@@ -59,11 +59,11 @@ Skills
   * Fluent: English
   * Basic: Spanish
 
-Publications
+Poster
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Occupational Gender Segregation in China (2012-2021) ：Implications for Business and Workforce Strategy
+* Accepted by Informs Analytics+ Poster Session
+* Conducted a quantitative study on gender segregation in Chinese labor markets (2012–2021), using national statistics and segregation indices. Linked macro labor trends to business strategy and DEI implications.
   
 Talks
 ======
