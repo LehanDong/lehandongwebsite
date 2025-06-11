@@ -65,11 +65,9 @@ Occupational Gender Segregation in China (2012-2021) ：Implications for Busines
 * Accepted by Informs Analytics+ Poster Session
 * Conducted a quantitative study on gender segregation in Chinese labor markets (2012–2021), using national statistics and segregation indices. Linked macro labor trends to business strategy and DEI implications.
   
-Talks
+Projects
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+
   
 Teaching
 ======
