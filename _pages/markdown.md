@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Life"
-permalink: /images/
+permalink: /life/
 author_profile: true
 ---
 
