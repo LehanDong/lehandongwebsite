@@ -110,14 +110,14 @@ Projects
 Professional Experience
 ======
 ### Sinolink Securities – Investment Banking Division
-* Summer Analyst · May – Jul 2024 · Beijing, China
+Summer Analyst · May – Jul 2024 · Beijing, China
 - Conducted due diligence and financial statement analysis for IPO and refinancing clients in manufacturing and healthcare sectors
 - Assisted in preparing pitchbooks and regulatory filings, including prospectus drafts for Shanghai STAR Market
 - Supported DCF modeling and industry benchmarking for client valuation
 - **Tools**: Excel (financial modeling), Wind, public disclosure platforms
 
 ### KPMG Advisory (China) Limited – Financial Risk Management Team
-* Consulting Intern · Aug – Sep 2023 · Sichuan, China
+Consulting Intern · Aug – Sep 2023 · Sichuan, China
 - Constructed a compliance rulebook across business units (R&D, asset management, etc.), enabling faster audit reference via Excel-based cross-indexing
 - Automated extraction and comparison of internal documents using Python, identifying compliance gaps and improving remediation workflows
 - Designed a visualized management framework using Visio to clarify audit processes and enhance team collaboration
