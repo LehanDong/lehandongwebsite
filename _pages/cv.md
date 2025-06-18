@@ -61,7 +61,7 @@ Skills
 
 Poster
 ======
-Occupational Gender Segregation in China (2012-2021) ：Implications for Business and Workforce Strategy
+### Occupational Gender Segregation in China (2012-2021) ：Implications for Business and Workforce Strategy
 * Accepted by Informs Analytics+ Poster Session
 * Conducted a quantitative study on gender segregation in Chinese labor markets (2012–2021), using national statistics and segregation indices. Linked macro labor trends to business strategy and DEI implications.
   
@@ -75,10 +75,38 @@ Projects
 - **Methods**: Logistic regression, subgroup comparison, CRA geography linkage  
 - **Outcome**: Identified equity gaps across demographic groups; findings used in policy discussions on CRA modernization
 
-* Forecasting U.S. Airline Passenger Traffic: 2010–2019
-* Judging Survival: Quantitative Analysis of Battered Women’s Self-Defense Cases 
-* Retail Location Strategy Based on Consumer Segmentation and Market Gaps
-* Occupational Gender Segregation in China (2012–2021): Implications for Business and Workforce Strategy
+### Forecasting U.S. Airline Passenger Traffic: 2010–2019
+*Time-Series Modeling and Prediction Evaluation*
+- **Tools**: Python (statsmodels, scikit-learn, Keras), Excel  
+- **Data**: Monthly U.S. airline passenger volume (BTS), 2010–2018 for training, 2019 for testing  
+- **Methods**: ARIMA, SARIMA, SARIMAX with exogenous variables; hybrid LSTM models  
+- **Evaluation**: Compared models using out-of-sample MAPE and cross-validation  
+- **Outcome**: Achieved optimal forecast accuracy (MAPE < 0.35%) with hybrid SARIMA–LSTM approach; awarded Best Presentation (1st of 32 teams)
+
+### Judging Survival: Quantitative Analysis of Battered Women’s Self-Defense Cases 
+*Legal Data + Logistic Regression + Policy Implications*
+- **Tools**: Python, Excel, logistic regression, case coding  
+- **Data**: 80+ documented Chinese self-defense cases involving battered women  
+- **Focus**: Investigated conviction outcomes based on variables such as abuse history, race, legal framing, and presence of expert testimony  
+- **Methods**: Categorical variable encoding, bivariate statistics, logistic modeling  
+- **Outcome**: Identified potential racial and structural biases in conviction patterns; project informed classroom discussion on law, gender, and justice
+
+### Retail Location Strategy Based on Consumer Segmentation and Market Gaps  
+*Demand Analysis + Segmentation Modeling + Site Optimization*
+- **Tools**: R (dplyr, ggplot2, cluster), Tableau, ArcGIS
+- **Data**: Consumer transaction data (Dominick’s dataset), neighborhood demographics, store-level sales  
+- **Focus**: Identified underserved segments and evaluated store performance by clustering shopping behavior and cross-mapping with geographic accessibility  
+- **Methods**: K-means clustering, demographic overlay, market gap visualization  
+- **Outcome**: Delivered location-based recommendations to optimize future store expansion and improve coverage for high-potential segments
+
+### Occupational Gender Segregation in China (2012–2021): Implications for Business and Workforce Strategy  
+*Policy Research + Labor Statistics + DEI Strategy*
+- **Tools**: Stata, Excel  
+- **Data**: China Labor Statistics Yearbook (urban non-private sectors, 2012–2021)  
+- **Focus**: Quantified occupational gender segregation using D Index and KM Index; examined its effects on industry growth, average salaries, and female participation  
+- **Methods**: Longitudinal index comparison, regression analysis  
+- **Outcome**: Insights presented at INFORMS Analytics+ Poster Session; recommendations proposed for DEI policy and HR planning
+
 
   
 Teaching
