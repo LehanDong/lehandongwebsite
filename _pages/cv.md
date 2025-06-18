@@ -110,14 +110,14 @@ Projects
 Professional Experience
 ======
 ### Sinolink Securities – Investment Banking Division
-* Summer Analyst · May – Jul 2024 · Beijing, China*
+* Summer Analyst · May – Jul 2024 · Beijing, China
 - Conducted due diligence and financial statement analysis for IPO and refinancing clients in manufacturing and healthcare sectors
 - Assisted in preparing pitchbooks and regulatory filings, including prospectus drafts for Shanghai STAR Market
 - Supported DCF modeling and industry benchmarking for client valuation
 - **Tools**: Excel (financial modeling), Wind, public disclosure platforms
 
 ### KPMG Advisory (China) Limited – Financial Risk Management Team
-* Consulting Intern · Aug – Sep 2023 · Sichuan, China*
+* Consulting Intern · Aug – Sep 2023 · Sichuan, China
 - Constructed a compliance rulebook across business units (R&D, asset management, etc.), enabling faster audit reference via Excel-based cross-indexing
 - Automated extraction and comparison of internal documents using Python, identifying compliance gaps and improving remediation workflows
 - Designed a visualized management framework using Visio to clarify audit processes and enhance team collaboration
@@ -126,19 +126,19 @@ Professional Experience
 Service and Leadership
 ======
 ### Johns Hopkins Community Consulting Lab (JHCCL)
-* Client: BioBuzz Network Inc. — AI Talent Platform Strategy · Consultant · Feb 2025 – May 2025* 
+AI Talent Platform Strategy · Consultant · Feb 2025 – May 2025
 - Cleaned and optimized a complex database with 500+ fields and 30,000+ records to improve usability for downstream analytics
 - Developed customized data strategy recommendations focused on scalability, automation, and digital transformation
 - Co-designed an AI architecture roadmap, including internal team-building suggestions and implementation priorities
 
 ### Johns Hopkins Graduate Consulting Club (JHGCC)
-* Client: PyrAmes — Market Strategy for Wearable Health Tech · Consultant · Nov 2024 – April 2025*
+Market Strategy for Wearable Health Tech · Consultant · Nov 2024 – April 2025
 - Conducted competitive analysis on 70+ wearable health devices; mapped market share, product positioning, pricing, and technological edge of top 5 competitors
 - Researched AI applications and large-scale data integration strategies in digital health; benchmarked 10+ firms including Apple Health and Withings
 - Co-authored a 20+ page client report covering customer segmentation, competitor insights, case studies, and AI-enabled go-to-market strategy
 
 ### Henan University Debate Team
-* Team Captain · Sept 2021 – Mar 2023
+Team Captain · Sept 2021 – Mar 2023
 - Led the organization of the university’s first cross-city debate competition; coordinated 24 departments and collaborated to engage nearly 300 student participants
 - Oversaw full-cycle planning and execution, including inter-departmental coordination, scheduling, and participant management
 - Participated in international and national tournaments, winning 2 international and 10 national awards; strengthened skills in teamwork, structured argumentation, and data-supported communication
