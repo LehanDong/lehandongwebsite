@@ -67,6 +67,18 @@ Occupational Gender Segregation in China (2012-2021) ：Implications for Busines
   
 Projects
 ======
+### Evaluating Mortgage Lending Equity in the South Atlantic  
+*CRA-Linked Analysis Using HMDA Data (2018–2022)*
+- **Tools**: Stata, Python (pandas, matplotlib), GIS visualization  
+- **Data**: Home Mortgage Disclosure Act (HMDA), CRA tract-level data  
+- **Focus**: Assessed racial and income disparities in mortgage approvals, pricing, and loan amounts  
+- **Methods**: Logistic regression, subgroup comparison, CRA geography linkage  
+- **Outcome**: Identified equity gaps across demographic groups; findings used in policy discussions on CRA modernization
+
+* Forecasting U.S. Airline Passenger Traffic: 2010–2019
+* Judging Survival: Quantitative Analysis of Battered Women’s Self-Defense Cases 
+* Retail Location Strategy Based on Consumer Segmentation and Market Gaps
+* Occupational Gender Segregation in China (2012–2021): Implications for Business and Workforce Strategy
 
   
 Teaching
