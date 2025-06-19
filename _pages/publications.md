@@ -18,14 +18,18 @@ author_profile: true
 
 At Tsinghua, I assist Professors Jiandong Ju and Dr. Chen Huang in research spanning monetary policy, capital flows, and international trade.
 
-#### Seigniorage & AI-Based Commentary  
-Structured and cleaned central bank income statement data (FRED & Fed) to support seigniorage modeling, and applied difference-in-differences and machine learning methods to simulate behavioral responses to policy. This work contributes to an AI-driven macroeconomic commentary system.
+***Seigniorage & AI-Based Commentary***
+* Structured and cleaned central bank income statement data (FRED & Fed)
+* Applied difference-in-differences and machine learning methods to simulate
+* Contributes to an AI-driven macroeconomic commentary system.
 
-#### U.S.–China Trade Policy  
-conducted policy impact analysis on U.S. reciprocal tariffs, reviewing papers on trade frictions and firm-level responses. Also contributed to editing and publishing the *Paper Express* and *Report Study* brief series.
+***U.S.–China Trade Policy***
+* Conducted policy impact analysis on U.S. reciprocal tariffs, reviewing papers on trade frictions and firm-level responses. 
+* Editing and publishing the *Paper Express* and *Report Study* brief series.
 
-#### Capital Account Liberalization (Hengqin Project)  
-For a regional integration project, benchmarked capital regimes in Hong Kong, Thailand, and ASEAN, and co-authored internal briefs on cross-border regulatory harmonization. Also developed policy-facing visualizations using Python and Excel.
+***Capital Account Liberalization***
+* Benchmarked capital regimes in Hong Kong, Thailand, and ASEAN, and co-authored internal briefs on cross-border regulatory harmonization.
+* Developed policy-facing visualizations using Python and Excel.
 
 ### Poster
 {% if site.author.googlescholar %}
