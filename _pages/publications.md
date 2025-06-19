@@ -4,17 +4,16 @@ title: "Research Experience"
 permalink: /publications/
 author_profile: true
 ---
-
 {% include base_path %}
 
-Thanks for visiting! Below is a summary of my RA work and academic contributions.
-
 Selected Work in Progress:
+======
 * “Trade Dynamics and Regional Integration under Trump-era Tariffs: Evidence from Hengqin”  with Dr. Chen Huang, Tsinghua University 
 * “Seigniorage and Monetary Policy Transmission” with Dr. Chen Huang, Tsinghua University 
 * “CRA Enforcement and Racial Equity: Evidence from HMDA Mortgage Approvals” with peers, guided by Prof. Turken, Johns Hopkins University
 
 Research Experience:
+======
 Tsinghua Unviersity，2024
 
 {% if site.author.googlescholar %}
