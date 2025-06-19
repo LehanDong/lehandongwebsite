@@ -12,8 +12,8 @@ Welcome to a glimpse of life beyond academics 🎒🎻
 I love exploring new cities, hiking quiet paths, and collecting moments along the way.
 
 <div style="display: flex; gap: 10px;">
-  <img src="{{ '/images/life/travel1.jpg' | relative_url }}" width="48%" />
-  <img src="{{ '/images/life/travel2.jpg' | relative_url }}" width="48%" />
+  <img src="{{ '/images/travel1.jpg' | relative_url }}" width="48%" />
+  <img src="{{ '/images/travel2.jpg' | relative_url }}" width="48%" />
 </div>
 
 ---
