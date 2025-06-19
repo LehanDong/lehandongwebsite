@@ -4,6 +4,16 @@ title: "Research Experience"
 permalink: /publications/
 author_profile: true
 ---
+<style>
+.page__content {
+  font-size: 17px;
+  line-height: 1.8;
+}
+.page__content p {
+  margin-bottom: 1.2em;
+}
+</style>
+
 {% include base_path %}
 
 ### Selected Work in Progress:
