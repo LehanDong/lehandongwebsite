@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% include base_path %}
 
 Thanks for visiting! Below is a summary of my RA work and academic contributions.
 
