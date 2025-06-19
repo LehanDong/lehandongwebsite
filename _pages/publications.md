@@ -6,16 +6,35 @@ author_profile: true
 ---
 {% include base_path %}
 
-Selected Work in Progress:
-======
+### Selected Work in Progress:
 * “Trade Dynamics and Regional Integration under Trump-era Tariffs: Evidence from Hengqin”  with Dr. Chen Huang, Tsinghua University 
 * “Seigniorage and Monetary Policy Transmission” with Dr. Chen Huang, Tsinghua University 
 * “CRA Enforcement and Racial Equity: Evidence from HMDA Mortgage Approvals” with peers, guided by Prof. Turken, Johns Hopkins University
 
-Research Experience:
-======
-Tsinghua Unviersity，2024
+### Research Experience:
+Research Assistant – Tsinghua University, Center for International Finance and Economics  
+*Jun 2024 – Present*
+*Advised by Prof. Jiandong Ju & Dr. Chen Huang (International Trade, Capital Flows, AI Economics)*
 
+---
+Seigniorage & AI Research  
+- Cleaned and organized central bank income statements (FRED & Fed Board) to support seigniorage modeling  
+- Applied **difference-in-differences** and **machine learning** to simulate behavioral responses to monetary policy  
+- Contributed to an AI-driven economic commentary system by aligning monetary, trade, and AI research teams
+---
+Trade Policy  
+- Evaluated the short- and long-term effects of U.S. reciprocal tariffs on exchange rate volatility and equity markets  
+- Synthesized insights from 20+ academic papers on trade friction, export response, and firm adaptation  
+- Led editing and publication for *Paper Express* and *Report Study* research brief series  
+- Managed speaker logistics and knowledge sharing for the **Tsinghua International Trade Lecture Series**
+---
+Capital Market Policy – Hengqin Project  
+- Conducted multi-country benchmarking (Hong Kong, Thailand, ASEAN) on capital account openness  
+- Drafted strategic recommendations for phased capital account reform and regulatory harmonization  
+- Produced **policy-facing visualizations** and internal briefs using Python and Excel to communicate capital flow bottlenecks and risks
+
+
+### Poster
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
