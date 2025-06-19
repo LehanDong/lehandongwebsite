@@ -24,9 +24,8 @@ Seigniorage & AI Research
 ---
 Trade Policy  
 - Evaluated the short- and long-term effects of U.S. reciprocal tariffs on exchange rate volatility and equity markets  
-- Synthesized insights from 20+ academic papers on trade friction, export response, and firm adaptation  
+- Synthesized insights from academic papers on trade friction, export response, and firm adaptation  
 - Led editing and publication for *Paper Express* and *Report Study* research brief series  
-- Managed speaker logistics and knowledge sharing for the **Tsinghua International Trade Lecture Series**
 ---
 Capital Market Policy – Hengqin Project  
 - Conducted multi-country benchmarking (Hong Kong, Thailand, ASEAN) on capital account openness  
