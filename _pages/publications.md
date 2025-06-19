@@ -1,19 +1,17 @@
 ---
 layout: page
-title: "Research & Experience"
+title: "Research Experience"
 permalink: /publications/
 author_profile: true
 ---
 
+### Selected Work in Progress:
+* “Trade Dynamics and Regional Integration under Trump-era Tariffs: Evidence from Hengqin”  with Dr. Chen Huang, Tsinghua University 
+* “Seigniorage and Monetary Policy Transmission” with Dr. Chen Huang, Tsinghua University 
+* “CRA Enforcement and Racial Equity: Evidence from HMDA Mortgage Approvals” with peers, guided by Prof. Turken, Johns Hopkins University
 
-Research Topics
-- **Gender & Labor Economics**  
-  Poster presented at INFORMS Analytics+ on occupational gender segregation in China (2012–2021), using D and KM indices and regression modeling.
-- **Mortgage Lending Equity**  
-  HMDA-CRA linked analysis of racial disparities in loan approvals in the South Atlantic, using logistic regression (Stata).
-- **Seigniorage Modeling & AI-Based Commentary**  
-  Structured FRED-based monetary data and simulated behavioral responses to policy using difference-in-differences and machine learning.
-
+### Research Experience:
+Tsinghua Unviersity，2024
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
