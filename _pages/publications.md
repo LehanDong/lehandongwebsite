@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-###Research Topics
+### Research Topics
 - **Gender & Labor Economics**  
   Poster presented at INFORMS Analytics+ on occupational gender segregation in China (2012–2021), using D and KM indices and regression modeling.
 - **Mortgage Lending Equity**  
