@@ -13,7 +13,7 @@ Selected Work in Progress:
 * “Seigniorage and Monetary Policy Transmission” with Dr. Chen Huang, Tsinghua University 
 * “CRA Enforcement and Racial Equity: Evidence from HMDA Mortgage Approvals” with peers, guided by Prof. Turken, Johns Hopkins University
 
-### Research Experience:
+Research Experience:
 Tsinghua Unviersity，2024
 
 {% if site.author.googlescholar %}
