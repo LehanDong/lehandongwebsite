@@ -31,7 +31,7 @@ At Tsinghua, I assist Professors Jiandong Ju and Dr. Chen Huang in research span
 * Benchmarked capital regimes in Hong Kong, Thailand, and ASEAN, and co-authored internal briefs on cross-border regulatory harmonization.
 * Developed policy-facing visualizations using Python and Excel.
 
-### Poster
+## Poster
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
