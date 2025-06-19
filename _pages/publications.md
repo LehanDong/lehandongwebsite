@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archived
 title: "Research Experience"
 permalink: /publications/
 author_profile: true
