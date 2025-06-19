@@ -22,21 +22,18 @@ author_profile: true
 * “CRA Enforcement and Racial Equity: Evidence from HMDA Mortgage Approvals” with peers, guided by Prof. Turken, Johns Hopkins University
 
 ### Research Experience:
-Research Assistant – Tsinghua University, Center for International Finance and Economics  
-*Jun 2024 – Present*
-*Advised by Prof. Jiandong Ju & Dr. Chen Huang (International Trade, Capital Flows, AI Economics)*
+***Research Assistant – Tsinghua University, Center for International Finance and Economics***
 
----
 Seigniorage & AI Research  
 - Cleaned and organized central bank income statements (FRED & Fed Board) to support seigniorage modeling  
 - Applied difference-in-differences and machine learning to simulate behavioral responses to monetary policy  
 - Contributed to an AI-driven economic commentary system by aligning monetary, trade, and AI research teams
----
+
 Trade Policy  
 - Evaluated the short- and long-term effects of U.S. reciprocal tariffs on exchange rate volatility and equity markets  
 - Synthesized insights from academic papers on trade friction, export response, and firm adaptation  
 - Led editing and publication for *Paper Express* and *Report Study* research brief series  
----
+
 Capital Market Policy – Hengqin Project  
 - Conducted multi-country benchmarking (Hong Kong, Thailand, ASEAN) on capital account openness  
 - Drafted strategic recommendations for phased capital account reform and regulatory harmonization  
