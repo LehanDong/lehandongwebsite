@@ -5,9 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+
 Thanks for visiting! Below is a summary of my RA work and academic contributions.
 
-### Selected Work in Progress:
+Selected Work in Progress:
 * “Trade Dynamics and Regional Integration under Trump-era Tariffs: Evidence from Hengqin”  with Dr. Chen Huang, Tsinghua University 
 * “Seigniorage and Monetary Policy Transmission” with Dr. Chen Huang, Tsinghua University 
 * “CRA Enforcement and Racial Equity: Evidence from HMDA Mortgage Approvals” with peers, guided by Prof. Turken, Johns Hopkins University
