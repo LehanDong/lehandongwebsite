@@ -19,7 +19,7 @@ Research Assistant – Tsinghua University, Center for International Finance and
 ---
 Seigniorage & AI Research  
 - Cleaned and organized central bank income statements (FRED & Fed Board) to support seigniorage modeling  
-- Applied **difference-in-differences** and **machine learning** to simulate behavioral responses to monetary policy  
+- Applied difference-in-differences and machine learning to simulate behavioral responses to monetary policy  
 - Contributed to an AI-driven economic commentary system by aligning monetary, trade, and AI research teams
 ---
 Trade Policy  
