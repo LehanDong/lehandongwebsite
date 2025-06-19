@@ -4,15 +4,6 @@ title: "Research Experience"
 permalink: /publications/
 author_profile: true
 ---
-<style>
-.page__content {
-  font-size: 17px;
-  line-height: 1.8;
-}
-.page__content p {
-  margin-bottom: 1.2em;
-}
-</style>
 
 {% include base_path %}
 
@@ -21,24 +12,20 @@ author_profile: true
 * “Seigniorage and Monetary Policy Transmission” with Dr. Chen Huang, Tsinghua University 
 * “CRA Enforcement and Racial Equity: Evidence from HMDA Mortgage Approvals” with peers, guided by Prof. Turken, Johns Hopkins University
 
-### Research Experience:
-***Research Assistant – Tsinghua University, Center for International Finance and Economics***
+### 🔬 Research Assistant  
+**Tsinghua University, Center for International Finance and Economics**  
+*Jun 2024 – Present | Beijing, China*
 
-Seigniorage & AI Research  
-- Cleaned and organized central bank income statements (FRED & Fed Board) to support seigniorage modeling  
-- Applied difference-in-differences and machine learning to simulate behavioral responses to monetary policy  
-- Contributed to an AI-driven economic commentary system by aligning monetary, trade, and AI research teams
+At Tsinghua, I assist Professors Jiandong Ju and Dr. Chen Huang in research spanning monetary policy, capital flows, and international trade.
 
-Trade Policy  
-- Evaluated the short- and long-term effects of U.S. reciprocal tariffs on exchange rate volatility and equity markets  
-- Synthesized insights from academic papers on trade friction, export response, and firm adaptation  
-- Led editing and publication for *Paper Express* and *Report Study* research brief series  
+#### Seigniorage & AI-Based Commentary  
+Structured and cleaned central bank income statement data (FRED & Fed) to support seigniorage modeling, and applied difference-in-differences and machine learning methods to simulate behavioral responses to policy. This work contributes to an AI-driven macroeconomic commentary system.
 
-Capital Market Policy – Hengqin Project  
-- Conducted multi-country benchmarking (Hong Kong, Thailand, ASEAN) on capital account openness  
-- Drafted strategic recommendations for phased capital account reform and regulatory harmonization  
-- Produced **policy-facing visualizations** and internal briefs using Python and Excel to communicate capital flow bottlenecks and risks
+#### U.S.–China Trade Policy  
+conducted policy impact analysis on U.S. reciprocal tariffs, reviewing papers on trade frictions and firm-level responses. Also contributed to editing and publishing the *Paper Express* and *Report Study* brief series.
 
+#### Capital Account Liberalization (Hengqin Project)  
+For a regional integration project, benchmarked capital regimes in Hong Kong, Thailand, and ASEAN, and co-authored internal briefs on cross-border regulatory harmonization. Also developed policy-facing visualizations using Python and Excel.
 
 ### Poster
 {% if site.author.googlescholar %}
