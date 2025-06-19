@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-### Selected Work in Progress:
+### 💡Selected Work in Progress
 * “Trade Dynamics and Regional Integration under Trump-era Tariffs: Evidence from Hengqin”  with Dr. Chen Huang, Tsinghua University 
 * “Seigniorage and Monetary Policy Transmission” with Dr. Chen Huang, Tsinghua University 
 * “CRA Enforcement and Racial Equity: Evidence from HMDA Mortgage Approvals” with peers, guided by Prof. Turken, Johns Hopkins University
@@ -31,7 +31,7 @@ At Tsinghua, I assist Professors Jiandong Ju and Dr. Chen Huang in research span
 * Benchmarked capital regimes in Hong Kong, Thailand, and ASEAN, and co-authored internal briefs on cross-border regulatory harmonization.
 * Developed policy-facing visualizations using Python and Excel.
 
-### Poster
+### 💹 Poster
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
